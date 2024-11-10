@@ -1,6 +1,6 @@
 ---
 - name: Установка Elastic
-  hosts: elastic_srv
+  hosts: elastic_server
   become: yes
   gather_facts: true
 
