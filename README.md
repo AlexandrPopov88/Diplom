@@ -60,3 +60,38 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 ### Резервное копирование
 Создайте snapshot дисков всех ВМ. Ограничьте время жизни snaphot в неделю. Сами snaphot настройте на ежедневное копирование.
 
+![машины](https://github.com/user-attachments/assets/56485809-6ea0-4c50-a29d-377569eb9e6d)
+
+![плэйбук1вэб](https://github.com/user-attachments/assets/aaedd659-6e37-4f21-a7d5-656b879fe90a)
+
+![сайт](https://github.com/user-attachments/assets/1286baca-9658-4fa3-96d2-da167a3e8c52)
+
+![балансировщик](https://github.com/user-attachments/assets/ddd39e82-a4e2-470a-925f-891a9d171fd9)
+
+![забикс](https://github.com/user-attachments/assets/434fa0e7-4d23-4c89-82fd-3525507af699)
+
+![хостызаб](https://github.com/user-attachments/assets/b071115a-e67c-4fea-96e5-4d86901fd096)
+
+![кибана](https://github.com/user-attachments/assets/4d9bdabd-a371-4ea2-919f-55daf874bb93)
+
+![кибанастарт](https://github.com/user-attachments/assets/2d29ec70-483f-4ab2-a67b-7a2b6600cb70)
+
+
+http://51.250.5.42/zabbix  admin/diplom24
+
+http://130.193.50.15:5601 kibana
+
+http://51.250.37.246 сайт
+
+
+
+
+
+
+
+
+
+
+
+
+
