@@ -1,6 +1,6 @@
 ---
 - name: Установка Filebeat
-  hosts: web
+  hosts: web_server
   become: yes
   gather_facts: true
   vars:
